@@ -1,0 +1,43 @@
+{
+  "list": [
+    {
+      "chainIdentifier": "stride",
+      "appId": "Stride",
+      "appName": "Stride",
+      "appLogoUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/stride/chain.png",
+      "appUrl": "https://app.stride.zone",
+      "appUrlByChainIdentifier": {
+        "cosmoshub": "https://app.stride.zone/?chain=ATOM",
+        "osmosis": "https://app.stride.zone/?chain=OSMO",
+        "stargaze": "https://app.stride.zone/?chain=STARS",
+        "juno": "https://app.stride.zone/?chain=JUNO",
+        "pheonix": "https://app.stride.zone/?chain=LUNA",
+        "evmos_9001": "https://app.stride.zone/?chain=EVMOS",
+        "injective": "https://app.stride.zone/?chain=INJ"
+      }
+    },
+    {
+      "chainIdentifier": "quicksilver",
+      "appId": "quicksilver",
+      "appName": "Quicksilver",
+      "appLogoUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/quicksilver/chain.png",
+      "appUrl": "https://app.quicksilver.zone/stake/delegate",
+      "appUrlByChainId": {
+        "cosmoshub": "https://app.quicksilver.zone/stake/delegate",
+        "regen": "https://app.quicksilver.zone/stake/delegate",
+        "stargaze": "https://app.quicksilver.zone/stake/delegate",
+        "osmosis": "https://app.quicksilver.zone/stake/delegate"
+      }
+    },
+    {
+      "chainIdentifier": "core",
+      "appId": "pstake",
+      "appName": "pSTAKE",
+      "appLogoUrl": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/pstake.svg",
+      "appUrl": "https://app.pstake.finance",
+      "appUrlByChainId": {
+        "cosmoshub": "https://cosmos.pstake.finance"
+      }
+    }
+  ]
+}
