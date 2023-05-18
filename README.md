@@ -1,0 +1,1 @@
+# keplr-liquid-staking-registry
