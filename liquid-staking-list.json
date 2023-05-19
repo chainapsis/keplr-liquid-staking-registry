@@ -22,7 +22,7 @@
       "appName": "Quicksilver",
       "appLogoUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/quicksilver/chain.png",
       "appUrl": "https://app.quicksilver.zone/stake/delegate",
-      "appUrlByChainId": {
+      "appUrlByChainIdentifier": {
         "cosmoshub": "https://app.quicksilver.zone/stake/delegate",
         "regen": "https://app.quicksilver.zone/stake/delegate",
         "stargaze": "https://app.quicksilver.zone/stake/delegate",
@@ -35,7 +35,7 @@
       "appName": "pSTAKE",
       "appLogoUrl": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/pstake.svg",
       "appUrl": "https://app.pstake.finance",
-      "appUrlByChainId": {
+      "appUrlByChainIdentifier": {
         "cosmoshub": "https://cosmos.pstake.finance"
       }
     }
