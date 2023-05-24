@@ -13,7 +13,8 @@
         "juno": "https://app.stride.zone/?chain=JUNO",
         "pheonix": "https://app.stride.zone/?chain=LUNA",
         "evmos_9001": "https://app.stride.zone/?chain=EVMOS",
-        "injective": "https://app.stride.zone/?chain=INJ"
+        "injective": "https://app.stride.zone/?chain=INJ",
+        "umee": "https://app.stride.zone/?chain=UMEE"
       }
     },
     {
