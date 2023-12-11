@@ -37,7 +37,8 @@
       "appLogoUrl": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/pstake.svg",
       "appUrl": "https://app.pstake.finance",
       "appUrlByChainIdentifier": {
-        "cosmoshub": "https://cosmos.pstake.finance"
+        "cosmoshub": "https://app.pstake.finance/cosmos?token=ATOM&chain=cosmos",
+        "osmosis": "https://app.pstake.finance/cosmos?token=OSMO&chain=osmosis"
       }
     }
   ]
