@@ -14,7 +14,8 @@
         "pheonix": "https://app.stride.zone/?chain=LUNA",
         "evmos_9001": "https://app.stride.zone/?chain=EVMOS",
         "injective": "https://app.stride.zone/?chain=INJ",
-        "umee": "https://app.stride.zone/?chain=UMEE"
+        "umee": "https://app.stride.zone/?chain=UMEE",
+        "dydx-mainnet": "https://app.stride.zone/?chain=DYDX"
       }
     },
     {
@@ -38,7 +39,8 @@
       "appUrl": "https://app.pstake.finance",
       "appUrlByChainIdentifier": {
         "cosmoshub": "https://app.pstake.finance/cosmos?token=ATOM&chain=cosmos",
-        "osmosis": "https://app.pstake.finance/cosmos?token=OSMO&chain=osmosis"
+        "osmosis": "https://app.pstake.finance/cosmos?token=OSMO&chain=osmosis",
+        "dydx-mainnet": "https://app.pstake.finance/cosmos?token=DYDX&chain=Dydx"
       }
     }
   ]
