@@ -40,7 +40,8 @@
       "appUrlByChainIdentifier": {
         "cosmoshub": "https://app.pstake.finance/cosmos?token=ATOM&chain=cosmos",
         "osmosis": "https://app.pstake.finance/cosmos?token=OSMO&chain=osmosis",
-        "dydx-mainnet": "https://app.pstake.finance/cosmos?token=DYDX&chain=Dydx"
+        "dydx-mainnet": "https://app.pstake.finance/cosmos?token=DYDX&chain=Dydx",
+        "stargaze": "https://app.pstake.finance/cosmos?token=STARS&chain=Stargaze"
       }
     }
   ]
