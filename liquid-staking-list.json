@@ -15,7 +15,11 @@
         "evmos_9001": "https://app.stride.zone/?chain=EVMOS",
         "injective": "https://app.stride.zone/?chain=INJ",
         "umee": "https://app.stride.zone/?chain=UMEE",
-        "dydx-mainnet": "https://app.stride.zone/?chain=DYDX"
+        "dydx-mainnet": "https://app.stride.zone/?chain=DYDX",
+        "ssc": "https://app.stride.zone/?chain=SAGA",
+        "dymension_1100": "https://app.stride.zone/?chain=DYM",
+        "celestia": "https://app.stride.zone/?chain=TIA",
+        "sommelier": "https://app.stride.zone/?chain=SOMM"
       }
     },
     {
